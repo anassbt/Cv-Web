@@ -1,17 +1,32 @@
 header {
   text-align: center;
+  background-color: rgb(47,72,88);
   text-decoration-color: black;
   font-weight: bold;
-  border-style: solid;
+  margin: auto;
 }
 
 img{
 float:left;
-height: 100px;
-width: 100px;
+height: 124px;
+width: 125px;
 }
 
 section {
-  border-style: solid;
   display: inline-block;
+  float: right;
+  width: 1066px;
+  background-color:#faf8f8;
+}
+
+ul {
+  list-style-type:none;
+}
+
+aside {
+  display: inline-block;
+  background-color:#86bbd8;
+  margin-bottom: 50%;
+  height: 500px;
+  width: 250px;
 }
