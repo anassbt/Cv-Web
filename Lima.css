@@ -1,0 +1,17 @@
+header {
+  text-align: center;
+  text-decoration-color: black;
+  font-weight: bold;
+  border-style: solid;
+}
+
+img{
+float:left;
+height: 100px;
+width: 100px;
+}
+
+section {
+  border-style: solid;
+  display: inline-block;
+}
