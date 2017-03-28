@@ -6,6 +6,14 @@ header {
   margin: auto;
 }
 
+h2 {
+  text-align: center;
+}
+h4 {
+  text-decoration: underline;
+  text-decoration-color: green;
+}
+
 img{
 float:left;
 height: 124px;
@@ -25,6 +33,7 @@ ul {
 
 aside {
   display: inline-block;
+  border-top:3px solid #9af184;
   background-color:#86bbd8;
   margin-bottom: 50%;
   height: 500px;
